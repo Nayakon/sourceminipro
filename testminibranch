@@ -1,2 +1,6 @@
 This a test for the minibranch
+<<<<<<< HEAD
 mater branch is going to be updated
+=======
+Conflict branch is going to be update the file
+>>>>>>> conflictBranch
